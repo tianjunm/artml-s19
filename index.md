@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Art & ML - Spring 2019
 
-You can use the [editor on GitHub](https://github.com/tianjunm/artml-s19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Project page
 
 ### Markdown
 
