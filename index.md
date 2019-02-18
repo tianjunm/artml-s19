@@ -2,34 +2,6 @@
 
 Project page
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tianjunm/artml-s19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Project 1
+With a strong desire to further explore the Paradox panel topics, we want to know how the computer algorithm sees pictures differently and whether it has a similar bias as we humans do. We would also like to apply style transfer to our generated differences for an artistic rendering of the differences, and an out-of-box solution is used to upscale the transformed image.
+This project is inspired by the adversarial attacks in machine learning. An adversarial attack consists of subtly modifying an original image in such a way that the changes are almost undetectable to the human eye. It is what caused the biased output in machine learning.
