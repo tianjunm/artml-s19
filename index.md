@@ -2,6 +2,10 @@
 
 Shawn (Boxiang) Lyu, Chuning Yang, Edgar Xi, TJ (Tianjun) Ma, Zhiyu Bai
 
+### Project 2
+
+<iframe src="https://giphy.com/embed/2fUEbqE1DSeLnmKRmF" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2fUEbqE1DSeLnmKRmF">via GIPHY</a></p>
+
 ### Project 1
 
 With a strong desire to further explore the Paradox panel topics, we want to know how the computer algorithm sees pictures differently and whether it has a similar bias as we humans do. We would also like to apply style transfer to our generated differences for an artistic rendering of the differences, and an out-of-box solution is used to upscale the transformed image.
